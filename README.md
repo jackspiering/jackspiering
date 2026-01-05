@@ -22,7 +22,7 @@ I'm a technology enthusiast and homelabber based in The Netherlands. I specializ
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
 ![Synology](https://img.shields.io/badge/Synology-B2B2B2?style=for-the-badge&logo=synology&logoColor=black)
-![Docker](![Synology](https://img.shields.io/badge/Docker-B2B2B2?style=for-the-badge&logo=docker&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-B2B2B2?style=for-the-badge&logo=docker&logoColor=black)
 
 **Operating Systems**
 
