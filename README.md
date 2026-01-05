@@ -12,21 +12,22 @@ I'm a technology enthusiast and homelabber based in The Netherlands. I specializ
 ### 🛠️ Tech Stack & Infrastructure
 **IaC & Automation**
 
+![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white)
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-FF4500?style=for-the-badge&logo=opentofu&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Packer](https://img.shields.io/badge/Packer-02E100?style=for-the-badge&logo=packer&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 **Virtualization & Storage**
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
-![Synology](https://img.shields.io/badge/Synology-B2B2B2?style=for-the-badge&logo=synology&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-B2B2B2?style=for-the-badge&logo=docker&logoColor=black)
+![Synology](https://img.shields.io/badge/Synology-0067E6?style=for-the-badge&logo=synology&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=black)
 
 **Operating Systems**
 
-![Linux](https://img.shields.io/badge/Linux-%235391FE.svg?style=for-the-badge&logo=linux&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) 
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
