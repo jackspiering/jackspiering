@@ -12,6 +12,7 @@ jack@github:~$ ./whoami.sh
 > Location: The Netherlands
 > Focus:    Zero-trust, IaC & Automation
 > Blog:     plugntroubleshoot.eu
+> Quote:    If it isn’t automated, it isn’t done.
 ```
 
 ---
@@ -104,11 +105,3 @@ If my projects, repos, or blog posts have helped you, feel free to buy me a coff
 <a href="https://buymeacoffee.com/jackspiering">
   <img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
-
----
-
-<div align="center">
-
-_"If it isn’t automated, it isn’t done."_
-
-</div>
