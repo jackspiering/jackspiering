@@ -27,7 +27,7 @@ After graduating, I began working as a Cybersecurity Consultant, which provided 
 
 I continued my journey as a Cybersecurity Engineer at Orange Cyberdefense. There, I absorbed knowledge from ethical hackers (special shoutout to [Crypt0rr](https://github.com/crypt0rr)). This experience taught me that the cybersecurity industry is incredibly broad—it is impossible to know everything. Consequently, I decided to focus heavily on network operations, as mastering the TCP/IP stack provides the strongest foundation for cybersecurity.
 
-### Outside of the Matrix
+### Outside the Matrix
 I created the blog [plugntroubleshoot.eu](https://plugntroubleshoot.eu) because, in my experience, nothing in tech is ever truly "Plug and Play." For me, it is always plug and then troubleshoot. I would like to take you all on my journey of troubleshooting first. The goal of the blog is to improve my writing skills and in doing so, helping others with their troubleshoot. 
 
 My Homelab Setup:
