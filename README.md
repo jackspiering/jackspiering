@@ -19,7 +19,7 @@ jack@github:~$ ./whoami.sh
 
 ## 👋 About me
 
-### Professional Carreer
+### Professional Career
 Hi, I'm Jack. I’ve had an affinity for technology since I was young (yes, I remember floppy disks). My journey began maintaining digital systems in media-rich environments, specifically within studios streaming to the internet. During my early studies, I learned a great deal from [Roland Sellis](https://www.linkedin.com/in/rolandsellis) and [Arno Kouters](https://www.linkedin.com/in/arnokouters/), teachers who truly loved their craft and passed that passion on to me.
 
 Following that, my interest shifted toward the "hacker" side of things, leading me to study Information Security Management. This program taught me the intersection of policy, technology, and psychology in cybersecurity. During this time, I worked as a Cybersecurity Analyst, gaining deep insight into how a SOC/SIEM is built. A highlight of this period was witnessing the rapid evolution of the Microsoft security suite into a market leader.
