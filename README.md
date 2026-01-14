@@ -50,7 +50,7 @@ I look forward to future technological advancements; they keep my career interes
 ---
 
 ## 🌍 Outside the Matrix
-If you caught the Mr. Robot reference above, you already know I love hacking culture. But when I'm not staring at (error messages) in a terminal, I'm usually creating music. During the COVID-19 lockdowns, I dove into FL Studio and discovered a new passion. I love making rap beats—it allows me to be creative in a way that code and security doesn't always permit. 
+If you caught the Mr. Robot reference above, you already know I love hacking culture. But when I'm not staring at (error messages in) a terminal, I'm usually gyming, watching movies and series or creating music. During the COVID-19 lockdowns, I dove into FL Studio and discovered a new passion. I love making rap beats—it allows me to be creative in a way that code and security doesn't always permit. 
 
 Besides that, I run the blog [plugntroubleshoot.eu](https://plugntroubleshoot.eu). I created it to improve my technical writing and to help others, because let's be honest: rarely is anything in tech truly "Plug and Play". When something actually works out of the box, I’m usually suspicious!
 
