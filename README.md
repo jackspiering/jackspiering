@@ -42,7 +42,7 @@ I look forward to future technological advancements; they keep my career interes
 
 ---
 
-## 🌍 Outside work
+## Outside work
 Gym, movies, series, and music. During COVID I spent a lot of time in FL Studio and still make beats when I feel like doing something creative.
 
 I also run [plugntroubleshoot.eu](https://plugntroubleshoot.eu). Mostly to get better at technical writing and to help others by going through troubleshooting for them first. 
