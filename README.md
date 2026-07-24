@@ -11,37 +11,30 @@ jack@github:~$ ./whoami.sh
 
 ---
 
-## 👋 Hi, I'm Jack
-I am a Cybersecurity Engineer with a deep passion for Network Operations and Automation. My philosophy is simple: nothing is ever truly "Plug and Play." It is usually "Plug and Troubleshoot," and that is exactly where the fun (for some) usually begins.
+## Who is Jack
+Cybersecurity Engineer with a focus on network operations and automation. Nothing is ever truly "plug and play." It's almost always "plug and troubleshoot," and that's usually the interesting part.
 
 ---
 
-## 🐧 The Linux Philosophy & My Homelab Story
-I am falling more in love with Linux every single day. It brings me genuine happiness to realize that I am using a historical artifact built by thousands of brilliant, motivated people working together as humanity. Using Linux feels like standing on the shoulders of giants, and I am honored to be alive in a time where I can learn from and contribute to this ecosystem.
+### Homelab
+The core of the lab is an Intel NUC8i3BEH running Proxmox. I run a mix of LXCs and a dedicated Docker host VM. Networking is handled by UniFi equipment.
 
-### 🧪 My Homelab
-My homelab is the physical manifestation of this passion—a space where I can break things safely to understand how to fix them.
+I've moved most of the setup to Infrastructure as Code. OpenTofu for provisioning and Ansible (through Semaphore) for configuration.
 
-It isn't just a collection of hardware; it’s a living ecosystem. At its heart beats an Intel NUC8i3BEH, the resilient workhorse running Proxmox. I treat virtualization as an art form here, orchestrating a mix of lightweight LXCs and a heavy-duty VM-based Docker host to run my services. The nervous system of the lab is powered by Unifi gear, ensuring stable switching and routing, while my command center is a MacBook Air M3.
+### Tailscale
 
-Recently, I’ve shifted my focus heavily toward Infrastructure as Code (IaC). I don’t just deploy servers; I automate their existence using OpenTofu for provisioning and Ansible (via Semaphore) for configuration management.
+Tailscale is a core part of how I access everything. It gives me a flat, but segmented, network across devices without opening ports to the internet, and it fits well into a simple zero-trust approach at home.
 
-### 🛡️ Tailscale
-
-A critical component of this setup is Tailscale. I use it not just for utility, but as a deliberate study in modern networking. From a learning perspective, in my field, understanding overlay networks and mesh VPNs is increasingly vital. Tailscale serves as a masterclass in how to simplify complex networking challenges—like NAT traversal and routing—without sacrificing performance. It allows me to treat my disparate devices as a unified, flat network, regardless of physical location.
-
-From a privacy and security perspective, it acts as the backbone of my personal Zero Trust architecture. By using Tailscale, I can access my home services securely without opening  ports to the public internet. It keeps my digital footprint small and my access secure.
-
-**🚀 Major Update (January 2026):** I am proud to share that I have officially become a Tailscale Insider. This recognition comes from my work as a co-owner of the [ScaleTail repository](https://github.com/tailscale-dev/ScaleTail), which has been adopted into the [tailscale-dev organization](https://github.com/tailscale-dev).
+In January 2026 I became a Tailscale Insider for the work on [ScaleTail](https://github.com/tailscale-dev/ScaleTail), which is now under the [tailscale-dev](https://github.com/tailscale-dev) organization.
 
 ---
 
-## 💼 Professional Career
+## Career
 My affinity for technology started young (yes, I remember floppy disks). My professional journey began in media-rich environments, maintaining digital systems for studios streaming to the internet. During these early years, I was lucky to learn from [Roland Sellis](https://www.linkedin.com/in/rolandsellis) and [Arno Kouters](https://www.linkedin.com/in/arnokouters) as my mentors who truly loved their craft and passed that spark on to me.
 
-As my interest shifted toward the "hacker" side of the spectrum, I studied Information Security Management to understand the intersection of policy, technology, and psychology. I began my tenure as a Cybersecurity Analyst, gaining deep insight into SOC and SIEM architecture while witnessing the rapid evolution of the Microsoft security suite. Following that, I stepped into the role of a Cybersecurity Consultant. This was effectively a crash course in the modern professional landscape, forcing me to tackle unfamiliar subjects daily and significantly accelerating my learning curve.
+As my interest shifted toward the 'hacker' side of the spectrum, I studied Information Security Management to understand the intersection of policy, technology, and psychology. I began my tenure as a Cybersecurity Analyst, gaining insight into SOC and SIEM architecture while witnessing the rapid evolution of the Microsoft security suite. Following that, I stepped into the role of a Cybersecurity Consultant. This was effectively a crash course in the modern professional landscape, forcing me to tackle unfamiliar subjects and significantly accelerating my learning curve.
 
-Later, I took on the responsibility of IT Security Manager at a hospital. This role provided a vital perspective on critical infrastructure. Working in healthcare was particularly impactful; it taught me that security decisions are never just technical—they directly influence patient safety and health outcomes.
+Later, I took on the responsibility of IT Security Manager at a hospital. Working in healthcare was particularly impactful; it taught me that security decisions are never just technical, they directly influence patient safety and health outcomes.
 
 Currently, I serve as a Cybersecurity Engineer at Orange Cyberdefense, working alongside talented ethical hackers (shoutout to [crypt0rr](https://github.com/crypt0rr) and other cybersecurity professionals. I realized that the industry is too broad to know everything. Consequently, I decided to specialize in Network Operations—because mastering the TCP/IP stack provides the strongest foundation for everything else in security.
 
@@ -49,14 +42,14 @@ I look forward to future technological advancements; they keep my career interes
 
 ---
 
-## 🌍 Outside the Matrix
-If you caught the Mr. Robot reference above, you already know I love hacking culture. But when I'm not staring at (error messages in) a terminal, I'm usually gyming, watching movies and series or creating music. During the COVID-19 lockdowns, I dove into FL Studio and discovered a new passion. I love making rap beats—it allows me to be creative in a way that code and security doesn't always permit. 
+## 🌍 Outside work
+Gym, movies, series, and music. During COVID I spent a lot of time in FL Studio and still make beats when I feel like doing something creative.
 
-Besides that, I run the blog [plugntroubleshoot.eu](https://plugntroubleshoot.eu). I created it to improve my technical writing and to help others, because let's be honest: rarely is anything in tech truly "Plug and Play". When something actually works out of the box, I’m usually suspicious!
+I also run [plugntroubleshoot.eu](https://plugntroubleshoot.eu). Mostly to get better at technical writing and to help others by going through troubleshooting for them first. 
 
 ---
 
-## 🧰 My Arsenal
+## Tools I use a lot
 
 ### Infrastructure as Code & Automation
 [![OpenTofu](https://img.shields.io/badge/OpenTofu-DEBE30?logo=opentofu&logoColor=fff)](#)
@@ -87,27 +80,7 @@ Besides that, I run the blog [plugntroubleshoot.eu](https://plugntroubleshoot.eu
 
 ---
 
-## 📊 GitHub Activity
-
-<table>
-<tr>
-<td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jackspiering&theme=radical" />
-</td>
-<td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jackspiering&theme=radical" />
-</td>
-</tr>
-<tr>
-<td colspan="2">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackspiering&theme=radical" />
-</td>
-</tr>
-</table>
-
----
-
-## ☕ Support Me
+## Support Me
 
 If my projects, repos, or blog posts have helped you, feel free to buy me a coffee!   
 
