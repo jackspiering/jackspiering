@@ -12,11 +12,13 @@ jack@github:~$ ./whoami.sh
 ---
 
 ## Who is Jack
-Cybersecurity Engineer with a focus on network operations and automation. Nothing is ever truly "plug and play." It's almost always "plug and troubleshoot," and that's usually the interesting part.
+
+Cybersecurity Engineer with a focus on network operations and automation. 
 
 ---
 
 ### Homelab
+
 The core of the lab is an Intel NUC8i3BEH running Proxmox. I run a mix of LXCs and a dedicated Docker host VM. Networking is handled by UniFi equipment.
 
 I've moved most of the setup to Infrastructure as Code. OpenTofu for provisioning and Ansible (through Semaphore) for configuration.
@@ -30,6 +32,7 @@ In January 2026 I became a Tailscale Insider for the work on [ScaleTail](https:/
 ---
 
 ## Career
+
 My affinity for technology started young (yes, I remember floppy disks). My professional journey began in media-rich environments, maintaining digital systems for studios streaming to the internet. During these early years, I was lucky to learn from [Roland Sellis](https://www.linkedin.com/in/rolandsellis) and [Arno Kouters](https://www.linkedin.com/in/arnokouters) as my mentors who truly loved their craft and passed that spark on to me.
 
 As my interest shifted toward the 'hacker' side of the spectrum, I studied Information Security Management to understand the intersection of policy, technology, and psychology. I began my tenure as a Cybersecurity Analyst, gaining insight into SOC and SIEM architecture while witnessing the rapid evolution of the Microsoft security suite. Following that, I stepped into the role of a Cybersecurity Consultant. This was effectively a crash course in the modern professional landscape, forcing me to tackle unfamiliar subjects and significantly accelerating my learning curve.
@@ -43,6 +46,7 @@ I look forward to future technological advancements; they keep my career interes
 ---
 
 ## Outside work
+
 Gym, movies, series, and music. During COVID I spent a lot of time in FL Studio and still make beats when I feel like doing something creative.
 
 I also run [plugntroubleshoot.eu](https://plugntroubleshoot.eu). Mostly to get better at technical writing and to help others by going through troubleshooting for them first. 
